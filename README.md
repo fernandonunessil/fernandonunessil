@@ -18,6 +18,10 @@
 - Outras habilidades: Git, HTML, CSS
 
 <img src="https://upload.wikimedia.org/wikipedia/commons/thumb/a/a7/React-icon.svg/2300px-React-icon.svg.png" alt="Texto Alternativo" width="50">
+<img src="https://upload.wikimedia.org/wikipedia/commons/thumb/d/d9/Node.js_logo.svg/1200px-Node.js_logo.svg.png" alt="Texto Alternativo" width="50">
+<img src="https://devtop.io/wp-content/uploads/2022/11/Next-JS.png" alt="Texto Alternativo" width="50">
+<img src="https://logospng.org/download/javascript/logo-javascript-1024.png" alt="Texto Alternativo" width="50">
+<img src="https://logospng.org/download/typescript/typescript-2048.png" alt="Texto Alternativo" width="50">
 
 ## Projetos Destacados
 
@@ -42,7 +46,7 @@ Link para o projeto: [Projeto 2](link-para-o-projeto)
 
 - E-mail: fernandonunesjs@hotmail.com
 - LinkedIn: [LinkedIn](https://www.linkedin.com/in/fernando-nunes-169559251)
-- Instagram: [@_fersilva_n](https://instagram.com/_fersilva_n?utm_source=qr&igshid=NGExMmI2YTkyZg%3D%3D)
+- Instagram: [@\_fersilva_n](https://instagram.com/_fersilva_n?utm_source=qr&igshid=NGExMmI2YTkyZg%3D%3D)
 
 ## Estatísticas do GitHub
 
