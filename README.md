@@ -17,8 +17,7 @@
 - Banco de Dados: MYSQL
 - Outras habilidades: Git, HTML, CSS
 
-![Texto Alternativo](https://upload.wikimedia.org/wikipedia/commons/thumb/a/a7/React-icon.svg/2300px-React-icon.svg.png)
-<img src="https://upload.wikimedia.org/wikipedia/commons/thumb/a/a7/React-icon.svg/2300px-React-icon.svg.png" alt="Texto Alternativo" width="200">
+<img src="https://upload.wikimedia.org/wikipedia/commons/thumb/a/a7/React-icon.svg/2300px-React-icon.svg.png" alt="Texto Alternativo" width="50">
 
 ## Projetos Destacados
 
