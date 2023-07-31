@@ -23,7 +23,7 @@
     <img src="https://testrigor.com/wp-content/uploads/2023/04/nextjs-logo-square.png" alt="Nextjs" width="50">
     <img src="https://logospng.org/download/javascript/logo-javascript-1024.png" alt="javascript" width="50">
     <img src="https://logospng.org/download/typescript/typescript-2048.png" alt="typescript" width="50">
-    <img src="https://upload.wikimedia.org/wikipedia/commons/thumb/d/d1/Axios_%28computer_library%29_logo.svg/1280px-Axios_%28computer_library%29_logo.svg.png" alt="axios" width="50">
+    <img src="https://avatars.githubusercontent.com/u/32372333?v=4&s=400" alt="axios" width="50">
 </div>
 
 ## Projetos Destacados
