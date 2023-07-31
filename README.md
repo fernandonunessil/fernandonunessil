@@ -17,11 +17,13 @@
 - Banco de Dados: MYSQL
 - Outras habilidades: Git, HTML, CSS
 
-<img src="https://upload.wikimedia.org/wikipedia/commons/thumb/a/a7/React-icon.svg/2300px-React-icon.svg.png" alt="Texto Alternativo" width="50">
-<img src="https://upload.wikimedia.org/wikipedia/commons/thumb/d/d9/Node.js_logo.svg/1200px-Node.js_logo.svg.png" alt="Texto Alternativo" width="50">
-<img src="https://devtop.io/wp-content/uploads/2022/11/Next-JS.png" alt="Texto Alternativo" width="50">
-<img src="https://logospng.org/download/javascript/logo-javascript-1024.png" alt="Texto Alternativo" width="50">
-<img src="https://logospng.org/download/typescript/typescript-2048.png" alt="Texto Alternativo" width="50">
+<div style="display: flex;">
+    <img src="https://upload.wikimedia.org/wikipedia/commons/thumb/a/a7/React-icon.svg/2300px-React-icon.svg.png" alt="Texto Alternativo" width="50">
+    <img src="https://upload.wikimedia.org/wikipedia/commons/thumb/d/d9/Node.js_logo.svg/1200px-Node.js_logo.svg.png" alt="Texto Alternativo" width="50">
+    <img src="https://devtop.io/wp-content/uploads/2022/11/Next-JS.png" alt="Texto Alternativo" width="50">
+    <img src="https://logospng.org/download/javascript/logo-javascript-1024.png" alt="Texto Alternativo" width="50">
+    <img src="https://logospng.org/download/typescript/typescript-2048.png" alt="Texto Alternativo" width="50">
+</div>
 
 ## Projetos Destacados
 
