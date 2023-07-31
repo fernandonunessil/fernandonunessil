@@ -25,6 +25,11 @@
     <img src="https://logospng.org/download/typescript/typescript-2048.png" alt="typescript" width="50">
     <img src="https://avatars.githubusercontent.com/u/32372333?v=4&s=400" alt="axios" width="50">
 </div>
+<div style="display: flex;">
+    <img src="https://upload.wikimedia.org/wikipedia/commons/thumb/3/3f/Git_icon.svg/480px-Git_icon.svg.png" alt="git" width="50">
+    <img src="https://upload.wikimedia.org/wikipedia/commons/thumb/6/61/HTML5_logo_and_wordmark.svg/1200px-HTML5_logo_and_wordmark.svg.png" alt="html" width="50">
+    <img src="https://upload.wikimedia.org/wikipedia/commons/d/d5/CSS3_logo_and_wordmark.svg" alt="css" width="50">
+</div>
 
 ## Projetos Destacados
 
