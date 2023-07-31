@@ -1,7 +1,8 @@
 # Fernando Nunes
 
-Todo problema pode ser resolvido com uma invenção
-"Um computador mereceria ser chamado de inteligente se pudesse enganar um humano fazendo-o acreditar que era humano. -Alan Turing"
+- Todo problema pode ser resolvido com uma invenção
+
+- "Um computador mereceria ser chamado de inteligente se pudesse enganar um humano fazendo-o acreditar que era humano. -Alan Turing"
 
 ## Sobre Mim
 
